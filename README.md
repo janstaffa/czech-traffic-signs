@@ -1,3 +1,9 @@
+## Czech traffic sign dataset
+
+- **data.zip** - entire dataset (2,643 images, 4,359 annotations)
+- **generated.zip** - only generated images (2,288 images, 3,864 annotations)
+- **real.zip** - real annotated images (355 images, 495 annotations)
+
 ### Traffic sign annotations
 *\* = included in GTSDB*
 ##### Zakazy
